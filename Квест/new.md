@@ -38,6 +38,7 @@ https://cyberchef.org/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)XOR(%7B'
 ```
 ssh thomas@62.173.140.174 -p 18322
 ```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/bb11cc18-22f3-4f08-ac21-4dbcdcddb63a)
 
 
 
