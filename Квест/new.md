@@ -32,5 +32,12 @@ https://fotoforensics.com/
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/3db90e76-6baa-4f4f-9346-d90be73d92b3)
 
+https://cyberchef.org/#recipe=From_Base64('A-Za-z0-9%2B/%3D',true,false)XOR(%7B'option':'UTF8','string':'Anton'%7D,'Standard',false)&input=SUFvNVhnQWVIU0VmS3hNeEVGMGRjQWs2S2h4eFcwUmJYSEZlVEE9PQ
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/f8ccbac6-8e8e-40a2-b72a-682c55c2be43)
+```
+ssh thomas@62.173.140.174 -p 18322
+```
+
 
 
