@@ -40,5 +40,17 @@ ssh thomas@62.173.140.174 -p 18322
 ```
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/bb11cc18-22f3-4f08-ac21-4dbcdcddb63a)
 
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/c32e4ea5-dc01-4808-b19b-a27ab5b964ef)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/1a49418e-580a-485d-bec1-47148ee2dac9)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/95ae89f9-0110-4d2e-8976-77bd7e2f1daf)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/0a466fad-7437-4d3a-a79f-4b01ca970651)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/a860367b-75ae-41f2-9f25-f945e7b5f766)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/89ef61c8-5cf0-4e61-acd2-2d1d409df283)
+
 
 
