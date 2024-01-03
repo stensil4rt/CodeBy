@@ -21,3 +21,16 @@ nc -lnvp 1234
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/b7855fbb-c57d-48f5-8e90-f2ea72b76f8b)
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/5d5622e7-4060-4da7-af10-a7dc7dc63ef9)
+
+... revers ing ...
+
+... stega ...
+
+https://fotoforensics.com/
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/b6bb709e-5498-4daa-9c4c-c291c30acd00)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/3db90e76-6baa-4f4f-9346-d90be73d92b3)
+
+
+
