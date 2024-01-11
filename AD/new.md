@@ -19,6 +19,8 @@ multi/misc/apache_activemq_rce_cve_2023_46604
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/d7db10fb-550f-4160-8bd9-e3791687ce40)
 
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/5ea4d1ce-b2b9-4b54-b667-f65774c1500f)
+
 https://www.exploit-db.com/exploits/51267
 
 ```
