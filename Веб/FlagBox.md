@@ -6,7 +6,7 @@
 2. Выснение, количество цифр в куках четное или не четное
 3. Выполение 2 или 3 раза цикла FOR
 
-https://hackerone.com/reports/1066233
+https://lia.mg/posts/hackerone-hacky-holidays-2020-ctf-writeup/
 
 https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_string_str_replace
 
