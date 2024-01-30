@@ -7,13 +7,16 @@
 3. Выполение 2 или 3 раза цикла FOR
 
 https://lia.mg/posts/hackerone-hacky-holidays-2020-ctf-writeup/
+
 https://hackerone.com/reports/1065583
 
 https://www.w3schools.com/php/phptryit.asp?filename=tryphp_func_string_str_replace
 
 Для нечетного
+
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/ec6864c6-fd04-4a88-bc53-849260406602)
  
 Для четного
+
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/fc6caac5-64dd-4099-bd4a-5be33a3cb11e)
 
