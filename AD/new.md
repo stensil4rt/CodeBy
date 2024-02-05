@@ -47,6 +47,8 @@ evil-winrm -i 192.168.2.10 -u 'LOGIN' -p 'PASS'
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/d6fa22e4-c734-43e5-bb3f-a9c65a51d086)
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/e909d3ab-97fd-43c7-a5a7-b2c0663d73ea)
-
+```
+evil-winrm -i 192.168.2.10 -u 'LOGIN' -p 'PASS'
+```
 
 
