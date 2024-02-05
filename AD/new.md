@@ -34,6 +34,17 @@ sudo responder -wd -I eth0
 ```
 john --wordlist=/home/kali/PAYLOADS/rockyou.txt hash_pass.txt
 ```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/ced3007d-f8a7-4737-8bad-9dee47deb159)
+
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/e216110c-dd36-4911-826a-9bbb3a9e54b2)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/f16b6da8-76f4-4340-a34f-fa898db1179c)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/f74c3a4b-9d74-4460-a305-db0363889c3a)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/d6fa22e4-c734-43e5-bb3f-a9c65a51d086)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/e909d3ab-97fd-43c7-a5a7-b2c0663d73ea)
+
 
 
