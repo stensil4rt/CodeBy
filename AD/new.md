@@ -1,4 +1,4 @@
-dddd
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/63b137ab-9199-4d90-ace4-48d25173c9eb)
 
 ```
 nmap -sT -sV 192.168.2.10 -p- -v -sC   
@@ -50,5 +50,6 @@ evil-winrm -i 192.168.2.10 -u 'LOGIN' -p 'PASS'
 ```
 evil-winrm -i 192.168.2.10 -u 'LOGIN' -p 'PASS'
 ```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/9ef9c537-437a-476f-8f31-74b675413def)
 
 
