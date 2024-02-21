@@ -46,5 +46,6 @@ queryuser mikhail.larionov
 ```
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/56b20868-b957-4c21-bc6a-f7354e8b3ba4)
 
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/76dc000f-ffd7-4aa5-a091-5845705994d5)
 
 
