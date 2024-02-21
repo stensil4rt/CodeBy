@@ -40,4 +40,11 @@ john --wordlist=/home/kali/PAYLOADS/rockyou.txt rar.hash
 
 ![image](https://github.com/stensil4rt/CodeBy/assets/62753044/45092782-9ac5-4cd6-b8ea-0b184a81d8b3)
 
+```
+rpcclient -U veronika.sultanova 192.168.2.11
+queryuser mikhail.larionov
+```
+![image](https://github.com/stensil4rt/CodeBy/assets/62753044/56b20868-b957-4c21-bc6a-f7354e8b3ba4)
+
+
 
